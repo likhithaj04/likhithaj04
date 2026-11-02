@@ -19,18 +19,17 @@ I'm a Full-Stack Developer, passionate about building practical, user-focused we
 ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=plastic&logo=ejs&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=plastic&logo=reacthookform&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white)
 
 ### ⚙️ Backend Development
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white)
 
 ### 👩‍💻 Programming Language
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
 
-### 🗄️ Database & ORM
+### 🗄️ Databases & ORM/ODM
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=plastic&logo=mongoose&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white)
