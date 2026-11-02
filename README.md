@@ -1,4 +1,3 @@
-## Hi I'm Likhitha 👋
 
 # Hi, I'm Likhitha 👋
 
