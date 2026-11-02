@@ -34,12 +34,10 @@ I'm a Full-Stack Developer, passionate about building practical, user-focused we
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white)
 
-### 🛠️ Development Tools
+### 🛠️ Development Tools and Version Control
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=plastic&logo=npm&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-233233?style=plastic&logo=nodemon&logoColor=BBDEAD)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-
-### 🔧 Version Control
 ![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
 
