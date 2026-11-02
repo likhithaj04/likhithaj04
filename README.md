@@ -1,11 +1,15 @@
 ## Hi I'm Likhitha 👋
 
-Full Stack Developer specializing in the MERN stack, with hands-on experience building scalable and production-ready web applications. 
-I enjoy designing robust backend architectures, creating intuitive user experiences, and exploring AI to solve real-world challenges.
+# Hi, I'm Likhitha 👋
 
-🚀 Building production-ready applications with React, Node.js, Express.js, MongoDB, and PostgreSQL
-🤖 Exploring Agentic AI, RAG systems, LangChain, Pinecone.
-🔭 Currently developing AI-integrated applications and intelligent document retrieval workflows
-💡 Interested in Backend Engineering, System Design, REST APIs, Authentication, and Vector Databases
-💬 Ask me about MERN Stack, JWT Auth, API Development, Database Design, and AI Integration
-🎯 Focused on creating technology that solves real-world problems and delivers meaningful user experiences
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=5003&pause=1075&width=435&lines=MERN+Stack+Developer;Full+Stack+Developer;Always+Learning%2C+Always+Building;Exploring+AI-Powered+Applications" alt="Typing SVG" /></a>
+
+## 💫 About Me:
+I'm a Full-Stack Developer, passionate about building practical, user-focused web applications and exploring AI-powered solutions.<br><br>💻 I work primarily with the MERN stack and enjoy turning ideas into functional, scalable applications.<br><br>🌱 Currently focusing on:<br>Building real-world full-stack applications.<br>Exploring AI integration in web applications.<br>Learning better software design and development practices.<br><br>✨ I enjoy learning by building, and continuously improving my development skills.
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/likhitha-aj/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:likhitha15jayram@gmail.com)
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+
